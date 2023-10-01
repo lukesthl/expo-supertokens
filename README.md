@@ -6,17 +6,6 @@
 
 This project template provides a starting point for developing a React Native application with Expo and Supertokens to authenticate. It includes prebuilt screens for various authentication functionalities such as sign in, sign up, change password, change email, delete account, and forgot password.
 
-## Key Features:
-
-- [**Sign in with Apple, GitHub, Google, or Email and Password**](https://supertokens.com/docs/thirdpartyemailpassword/introduction): The authentication flow supports multiple sign-in options using Supertokens.
-- [**Role Management**](https://supertokens.com/docs/userroles/introduction): You can manage user roles and permissions within your application using Supertokens.
-- **Internationalization**: It includes built-in support for internationalization with typesafe i18next.
-- [**Deep Linking**](https://docs.expo.dev/guides/deep-linking/): Connect your app to a website by adding support for deep linking.
-- [**Expo Router v2**](https://docs.expo.dev/routing/introduction/): It utilizes Expo Router, a versatile routing solution for navigating between screens in your application.
-- [**Tamagui**](https://tamagui.dev/): You can leverage the Tamagui library within this template to enhance the UI and user experience of your React Native app.
-- [**mobx**](https://mobx.js.org/README.html): It uses mobx for state management.
-- **iOS Support**: The template ensures compatibility and support for iOS devices.
-
 ## Demo
 
 Sign in with Email and Password:
@@ -30,6 +19,17 @@ Sign in with Github:
 <div float="left">
   <img src="./docs/signin-with-github-example.gif" height="300">
 </div>
+
+## Key Features:
+
+- [**Sign in with Apple, GitHub, Google, or Email and Password**](https://supertokens.com/docs/thirdpartyemailpassword/introduction): The authentication flow supports multiple sign-in options using Supertokens.
+- [**Role Management**](https://supertokens.com/docs/userroles/introduction): You can manage user roles and permissions within your application using Supertokens.
+- **Internationalization**: It includes built-in support for internationalization with typesafe i18next.
+- [**Deep Linking**](https://docs.expo.dev/guides/deep-linking/): Connect your app to a website by adding support for deep linking.
+- [**Expo Router v2**](https://docs.expo.dev/routing/introduction/): It utilizes Expo Router, a versatile routing solution for navigating between screens in your application.
+- [**Tamagui**](https://tamagui.dev/): You can leverage the Tamagui library within this template to enhance the UI and user experience of your React Native app.
+- [**mobx**](https://mobx.js.org/README.html): It uses mobx for state management.
+- **iOS Support**: The template ensures compatibility and support for iOS devices.
 
 ## Getting Started
 
